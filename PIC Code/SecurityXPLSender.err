@@ -1,0 +1,3 @@
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecurityXPLSender.c 44 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecurityXPLSender.c 46 : comparison of a signed integer to an unsigned integer detected
+Warning[2054] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecurityXPLSender.c 1196 : suspicious pointer conversion

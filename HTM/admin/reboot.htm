@@ -1,0 +1,34 @@
+~inc:header.inc~
+<div id="content">
+
+<h1>Reboot In Progress...</h1>
+
+<p>Your settings were successfully saved, and the board is now rebooting
+to configure itself with the new settings.</p>
+
+<p align="center"><b>Your board is now located at:
+<a href="http://~rebootaddr~/">http://~rebootaddr~/</a></b></p>
+
+<h6></h6>
+
+<h3>Reconnection Instructions</h3>
+
+<ol>
+<li style="margin-bottom:10px"><b>Did you change the hostname?</b><br />
+	You should be able to access your board by clicking the link above.</li>
+<li style="margin-bottom:10px"><b>Did you try the IP address?</b><br />
+	Try accessing the board directly at the IP address you specified.
+	(ex: enter "http://192.168.5.23/" into your browser).  If this fails, then
+	the IP address you set is not reachable.  Try the step below.</li>
+<li><b>Still not working?</b><br />
+	You can retore to factory default setting and start again. Simply hold down button
+	1 when pressing the Reset button, release reset and continue holding button 1 for
+	4 seconds. All the LEDs will flash and the device will be restored to default.
+</li>
+</ol>
+</div>
+
+<script language="javascript">
+setTimeout("newAJAXCommand('/admin/reboot.cgi','void',false);",500);
+</script>
+~inc:footer.inc~

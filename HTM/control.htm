@@ -1,0 +1,37 @@
+~inc:header.inc~
+
+
+<form method="get" action="control.htm">
+	<div class="AlarmControl">
+
+		<b>Alarm State</b>
+
+		<select name="control">
+			<option value="d">Disarm</option>
+			<option value="h">Arm Home</option>
+			<option value="a">Arm Away</option>
+			<option value="l">Arm Latchkey</option>
+			<option value="p">Panic</option>
+		</select>
+
+		&nbsp; <b>Delay</b>
+
+		<select name="delay">
+			<option value="d">Default</option>
+			<option value="0">None</option>
+			<option value="1">10 Seconds</option>
+			<option value="2">20 Seconds</option>
+			<option value="3">30 Seconds</option>
+			<option value="4">40 Seconds</option>
+			<option value="5">50 Seconds</option>
+			<option value="6">60 Seconds</option>
+		</select>
+
+		<input type="submit" value="Update" style="margin-top:5px;">
+	</div>
+</form>
+
+
+
+
+~inc:footer.inc~

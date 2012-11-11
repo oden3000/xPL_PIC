@@ -1,0 +1,18 @@
+OK - * 10Base-T ethernet interface from the PIC18f97j60
+OK - * 24 zones with end of line monitoring using the three Philips 74HC4051 8 channel analogue demultiplexer and the ADC of the PIC micro controller
+OK - * 256K SPI buss EEPROM for configuration data and web content storage
+OK - * A small PCB mounted button connected an IO line of the PIC to act as hardware confirmation of setting changes
+OK - * SMD LED connected to an IO line of the PIC to indicate mains power is running. 
+OK - * SMD LED connected to an IO line of the PIC to indicate battery backup status
+OK - * Low heat 3.3 Volt power supply for the PIC micro
+OK - * A boost converter to step up the 12 volt supply to a 13.5 Volts and current limited to 600mA, this will act as a trickle charger for the 12 Volt SLA battery backup. 
+OK - * An IO line connected to the PIC will be needed to enable or disable the charger
+OK - * A resister voltage divider connected between the one of the PIC ADCÕs and the 12 volt battery, bringing the 12 Volt down to a range supported by the PIC. This will be used for the PIC to measure the battery voltage
+OK - * Means of separately driving 2 sirens and one strobe from 3 different PIC IO lines. The strobes and sirens are each 12 Volt 100 mA
+OK - * Perform supply cutover to battery backup should 12 Volt power source fail. Automatically return when power is restored. Remember the load could be as high as 3 amps on the 12 volt rail
+OK - * An IO line should be presented to the PIC that indicates which power source is in use.
+OK - * Protection from losing current out of the power supply when the battery is the power source
+OK - * TB4 is a terminal block design to power 12 volt external devices such as movement sensors (PIR) and solenoid door strikes (see Eagle project file)
+OK - * TB0 - TB3 is a terminal block for connecting the sensors
+OK - * The PCB needs to have 10 pin edge connector the will connect to digikey part number CCE10T-ND. The purpose of this interface is to perform programming of the PIC micro using the ICSP pins and MCLR. Any spare IO lines should also be connected here.
+OK - * RS 232 is not required, even though it was in the initial design

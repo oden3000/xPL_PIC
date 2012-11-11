@@ -1,0 +1,74 @@
+~inc:header.inc~
+<h1>Area Configuration</h1>
+<br>
+
+Limited to one feild updated at a time.
+<form method="get" action="areaconfig.htm">
+	<div class="AlarmConfig">
+
+		&nbsp;<b>Area ID</b>
+		<select name="id">
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6">6</option>
+			<option value="7">7</option>
+
+		</select>
+
+		&nbsp; <b>Bypass</b>
+		<select name="bypass">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+			<option value="a" selected >Not Set</option>
+		</select>
+
+		&nbsp; <b>Isolate</b>
+		<select name="isolate">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+			<option value="a"  selected >Not Set</option>
+		</select>
+<br>
+		&nbsp; <b>enable</b>
+		<select name="enable">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+			<option value="a"  selected >Not Set</option>
+		</select>
+
+		<br> <b>alarm type</b> ~AlarmTypeList~ <br>
+		<select name="alarmtype">
+			<option value="0">Buglary</option>
+			<option value="1">Fire</option>
+			<option value="2">Flood</option>
+			<option value="3">Gas</option>
+			<option value="4">Silent</option>
+			<option value="5">Duress</option>
+			<option value="6">Other</option>
+			<option value="a"  selected >Not Set</option>
+		</select>
+		<br>
+
+		Description <INPUT type="text" name="desc" <br>
+
+		<input type="submit" value="Update" style="margin-top:5px;">
+	</div>
+</form>
+
+
+<br>------------------------<br>
+Area 0: ~AreaDesc(0)~ <br>
+Area 1: ~AreaDesc(1)~ <br>
+Area 2: ~AreaDesc(2)~ <br>
+Area 3: ~AreaDesc(3)~ <br>
+Area 4: ~AreaDesc(4)~ <br>
+Area 5: ~AreaDesc(5)~ <br>
+Area 6: ~AreaDesc(6)~ <br>
+Area 7: ~AreaDesc(7)~ <br>
+
+
+~inc:footer.inc~

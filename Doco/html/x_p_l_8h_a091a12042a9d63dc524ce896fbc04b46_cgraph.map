@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$_security_system_8c.html#aea89a2e5b007623f49cb6117afc947ec" title="SchemaInit" alt="" coords="133,108,288,150" />
+<area shape="rect" href="$_security_system_8c.html#aa38cdab46c967118f0f383312f150cce" title="LoadDefaultConfig" alt="" coords="348,8,590,50" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#ad811bd225b593df01e168e1bb0967713" title="SendGatewayReady" alt="" coords="337,74,601,117" />
+<area shape="rect" href="$_security_system_8h.html#ae777555850cf9c897f46c8407ce1729f" title="Places a new email in the SMTP queue to be processed (sent)" alt="" coords="348,141,590,184" />
+<area shape="rect" href="$x_p_l_8c.html#a31c1c8faace74e23f37a03b7292f7981" title="xPLLoadEEConfig" alt="" coords="350,208,588,250" />
+<area shape="rect" href="$x_p_l_8c.html#abde6ae0f37ef47bee8e881bba8502169" title="XPLSendHeader" alt="" coords="650,74,872,117" />
+</map>

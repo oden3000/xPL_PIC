@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" href="$_security_system_8h.html#a6ff589f01cb93ce6c97ab0af6405d0df" title="bypassArea" alt="" coords="302,8,465,50" />
+<area shape="rect" href="$_security_system_8h.html#a4c1402940dc136f20f757edb09c73e28" title="EnableArea" alt="" coords="304,74,464,117" />
+<area shape="rect" href="$_security_system_8h.html#a3e1f7b8c937f29b73398bb3ad54743c4" title="IsolateArea" alt="" coords="306,141,461,184" />
+<area shape="rect" href="$_security_system_8h.html#a44f4ef2b28f2d65b626e1ec4e5885934" title="IsZoneTriggered" alt="" coords="608,594,824,637" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#ae9e6733b7fed738a76787f01762bb284" title="SendAlarmingMsg" alt="" coords="265,477,502,520" />
+<area shape="rect" href="$_security_system_8c.html#accca294859199bc9e59cec74618c871c" title="StateChangeToAlarming" alt="" coords="561,528,870,570" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#acdb6126b5578c4ca8c06d5343a7b37df" title="SendAreaInfo" alt="" coords="989,176,1173,218" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#a5d91f06e22d49f6ecee37802e866e0e6" title="SendAreaStat" alt="" coords="988,242,1174,285" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#ae77b19bae92f6c64f9a58f722b4bf193" title="SendAreaStateMsg" alt="" coords="956,309,1206,352" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#aeb4ee205f02bf767a5d3b93608abc736" title="SendGateStat" alt="" coords="621,360,810,402" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#ae149da75e2b494aa56f4976837706565" title="SendZoneInfo" alt="" coords="289,410,478,453" />
+<area shape="rect" href="$_security_system_8c.html#ad2cdbcce787b8a3c88addf52f996805f" title="StateChangeToArm" alt="" coords="257,728,510,770" />
+<area shape="rect" href="$_security_system_8c.html#a3ccbc635f6f7bb31465920840c7db474" title="IOTasks" alt="" coords="1022,528,1140,570" />
+<area shape="rect" href="$x_p_l_8h.html#a62b4d90791ab073f74677d42bfb64253" title="SchemaTasks" alt="" coords="1334,393,1521,436" />
+<area shape="rect" href="$x_p_l_8h.html#a86d914c966f337c4e3a6fda46a945d11" title="XPLTasks" alt="" coords="1614,496,1750,538" />
+<area shape="rect" href="$_main_demo_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="1801,496,1878,538" />
+<area shape="rect" href="$_security_system_8h.html#a723bf79e9ca7924d850e5c2be4029b1c" title="Arm" alt="" coords="681,661,750,704" />
+<area shape="rect" href="$_security_system_8h.html#af7b9ebfe6bb90725304e83cadb4cced8" title="ArmAway" alt="" coords="649,861,782,904" />
+<area shape="rect" href="$_security_system_8h.html#afba09fe6505822eb03078088f14ef89b" title="ArmHome" alt="" coords="645,728,786,770" />
+<area shape="rect" href="$_security_system_8h.html#aad7b06369f4a1f3b427e137a9f84a5c0" title="ArmLatchkey" alt="" coords="628,794,804,837" />
+<area shape="rect" href="$x_p_l_8h.html#a3baecc6556e5cc7af0d59d0216aa217c" title="SchemaProcessUDPMsg" alt="" coords="920,728,1242,770" />
+<area shape="rect" href="$x_p_l_8c.html#a41c59f641ff95b999e66c0d45117b73d" title="XPLProcessUDPMsg" alt="" coords="1290,650,1565,693" />
+<area shape="rect" href="$_h_t_t_p_forms_8c.html#a686ae35a16ecb63daffafcd015ddb070" title="Processes all HTTP GETS." alt="" coords="966,794,1196,837" />
+</map>

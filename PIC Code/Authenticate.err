@@ -1,0 +1,14 @@
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 67 : comparison of a signed integer to an unsigned integer detected
+Warning[2054] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 76 : suspicious pointer conversion
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 87 : comparison of a signed integer to an unsigned integer detected
+Warning[2054] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 102 : suspicious pointer conversion
+Warning[2054] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 102 : suspicious pointer conversion
+Warning[2054] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 123 : suspicious pointer conversion
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 127 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 139 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 156 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 249 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 278 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 307 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 602 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Authenticate.c 661 : comparison of a signed integer to an unsigned integer detected

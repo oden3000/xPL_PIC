@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$_authenticate_8c.html" title="Authenication, xPL and web." alt="" coords="7,98,319,141" />
+<area shape="rect" href="$_battery_8c.html" title="Backup battery management." alt="" coords="343,98,591,141" />
+<area shape="rect" href="$_e_o_l_8c.html" title="End Of Line detection, hardware interface." alt="" coords="615,98,834,141" />
+<area shape="rect" href="$_h_t_t_p_forms_8c.html" title="Processes data from HTML forms." alt="" coords="858,98,1167,141" />
+<area shape="rect" href="$_h_t_t_p_variables_8c.html" title="All HTML variables are defined here." alt="" coords="1191,98,1535,141" />
+<area shape="rect" href="$_security_system_8c.html" title="Main of security." alt="" coords="1559,98,1909,141" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html" title="Sends all security xPL messages." alt="" coords="1933,98,2327,141" />
+<area shape="rect" href="$_s_m_t_p_8c.html" title="All things Email." alt="" coords="2351,98,2586,141" />
+<area shape="rect" href="$x_p_l_8c.html" title="xPL Framework" alt="" coords="2610,98,2821,141" />
+</map>

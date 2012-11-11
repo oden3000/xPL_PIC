@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$_authenticate_8c.html" title="Authenication, xPL and web." alt="" coords="8,98,320,141" />
+<area shape="rect" href="$_battery_8c.html" title="Backup battery management." alt="" coords="344,98,592,141" />
+<area shape="rect" href="$_custom_s_n_t_p_8c.html" title="Custom version of SNTP." alt="" coords="616,98,938,141" />
+<area shape="rect" href="$_e_o_l_8c.html" title="End Of Line detection, hardware interface." alt="" coords="962,98,1181,141" />
+<area shape="rect" href="$_h_t_t_p_forms_8c.html" title="Processes data from HTML forms." alt="" coords="1205,98,1514,141" />
+<area shape="rect" href="$_h_t_t_p_variables_8c.html" title="All HTML variables are defined here." alt="" coords="1538,98,1882,141" />
+<area shape="rect" href="$_security_system_8c.html" title="Main of security." alt="" coords="1906,98,2256,141" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html" title="Sends all security xPL messages." alt="" coords="2280,98,2674,141" />
+<area shape="rect" href="$_s_m_t_p_8c.html" title="All things Email." alt="" coords="2698,98,2933,141" />
+<area shape="rect" href="$x_p_l_8c.html" title="xPL Framework" alt="" coords="2957,98,3168,141" />
+</map>

@@ -1,0 +1,131 @@
+~inc:header.inc~
+<h1>Zone Configuration</h1>
+<br>
+Limited to one feild updated at a time.
+<form method="get" action="zoneconfig.htm">
+	<div class="AlarmConfig">
+
+		&nbsp;<b>Zone ID</b>
+		<select name="id">
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6">6</option>
+			<option value="7">7</option>
+			<option value="8">8</option>
+			<option value="9">9</option>
+			<option value="10">10</option>
+			<option value="11">11</option>
+			<option value="12">12</option>
+			<option value="13">13</option>
+			<option value="14">14</option>
+			<option value="15">15</option>
+			<option value="16">16</option>
+			<option value="17">17</option>
+			<option value="18">18</option>
+			<option value="19">19</option>
+			<option value="20">20</option>
+			<option value="21">21</option>
+			<option value="22">22</option>
+			<option value="23">23</option>
+
+
+		</select>
+
+		&nbsp; <b>Bypass</b>
+		<select name="bypass">
+			<option value="1">Yes</option>
+			<option value="0" selected >No</option>
+		</select>
+
+		&nbsp; <b>Isolate</b>
+		<select name="isolate">
+			<option value="1">Yes</option>
+			<option value="0" selected >No</option>
+		</select>
+<br>
+		&nbsp; <b>enable</b>
+		<select name="enable">
+			<option value="1">Yes</option>
+			<option value="0" selected >No</option>
+		</select>
+
+		&nbsp; <b>Normaly Open</b>
+		<select name="no">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+			<option value="a"  selected >Not Set</option>
+		</select>
+
+		&nbsp; <b>Entry / exit point</b>
+		<select name="entry">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+			<option value="a" selected >Not Set</option>
+		</select>
+
+		<br> <b>type</b>~TypeList~<br>
+		<select name="type">
+			<option value="0">Perimeter</option>
+			<option value="1">Interior</option>
+			<option value="2">24 hour</option>
+			<option value="a" selected >Not Set</option>
+		</select>
+
+		<br> <b>alarm type</b> ~AlarmTypeList~ <br>
+		<select name="alarmtype">
+			<option value="0">Buglary</option>
+			<option value="1">Fire</option>
+			<option value="2">Flood</option>
+			<option value="3">Gas</option>
+			<option value="4">Silent</option>
+			<option value="5">Duress</option>
+			<option value="6">Other</option>
+			<option value="a"  selected >Not Set</option>
+		</select>
+
+
+		Description <INPUT type="text" name="desc" <br>
+
+
+
+		<br> <b>Area List</b> ~ZonesAreaList~ <br>
+		<INPUT type="text" name="arealist" <br>
+
+		<br>
+		<input type="submit" value="Update" style="margin-top:5px;">
+	</div>
+</form>
+
+<br>------------------------<br>
+Zone 0: ~ZoneDesc(0)~ --  Val: ~EOLValue(0)~ <br>
+Zone 1: ~ZoneDesc(1)~ --  Val: ~EOLValue(1)~ <br>
+Zone 2: ~ZoneDesc(2)~ --  Val: ~EOLValue(2)~ <br>
+Zone 3: ~ZoneDesc(3)~ --  Val: ~EOLValue(3)~ <br>
+Zone 4: ~ZoneDesc(4)~ --  Val: ~EOLValue(4)~ <br>
+Zone 5: ~ZoneDesc(5)~ --  Val: ~EOLValue(5)~ <br>
+Zone 6: ~ZoneDesc(6)~ --  Val: ~EOLValue(6)~ <br>
+Zone 7: ~ZoneDesc(7)~ --  Val: ~EOLValue(7)~ <br>
+Zone 8: ~ZoneDesc(8)~ --  Val: ~EOLValue(8)~ <br>
+Zone 9: ~ZoneDesc(9)~ --  Val: ~EOLValue(9)~ <br>
+Zone 10: ~ZoneDesc(10)~ --  Val: ~EOLValue(10)~ <br>
+Zone 11: ~ZoneDesc(11)~ --  Val: ~EOLValue(11)~ <br>
+Zone 12: ~ZoneDesc(12)~ --  Val: ~EOLValue(12)~ <br>
+Zone 13: ~ZoneDesc(13)~ --  Val: ~EOLValue(13)~ <br>
+Zone 14: ~ZoneDesc(14)~ --  Val: ~EOLValue(14)~ <br>
+Zone 15: ~ZoneDesc(15)~ --  Val: ~EOLValue(15)~ <br>
+Zone 16: ~ZoneDesc(16)~ --  Val: ~EOLValue(16)~ <br>
+Zone 17: ~ZoneDesc(17)~ --  Val: ~EOLValue(17)~ <br>
+Zone 18: ~ZoneDesc(18)~ --  Val: ~EOLValue(18)~ <br>
+Zone 19: ~ZoneDesc(19)~ --  Val: ~EOLValue(19)~ <br>
+Zone 20: ~ZoneDesc(20)~ --  Val: ~EOLValue(20)~ <br>
+Zone 21: ~ZoneDesc(21)~ --  Val: ~EOLValue(21)~ <br>
+Zone 22: ~ZoneDesc(22)~ --  Val: ~EOLValue(22)~ <br>
+Zone 23: ~ZoneDesc(23)~ --  Val: ~EOLValue(23)~ <br>
+<br>------------------------<br>
+
+
+~inc:footer.inc~

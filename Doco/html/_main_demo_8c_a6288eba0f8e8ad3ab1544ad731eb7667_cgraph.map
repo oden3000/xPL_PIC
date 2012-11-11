@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" href="$_main_demo_8c.html#a81c93ed3b819564cf8d53c6df5f4cee5" title="InitAppConfig" alt="" coords="121,452,302,494" />
+<area shape="rect" href="$_main_demo_8c.html#a9d407cc5d1f74ec0206881c1562d8af5" title="InitializeBoard" alt="" coords="117,518,306,561" />
+<area shape="rect" href="$x_p_l_8c.html#a091a12042a9d63dc524ce896fbc04b46" title="xPLInit" alt="" coords="161,585,262,628" />
+<area shape="rect" href="$x_p_l_8c.html#a86d914c966f337c4e3a6fda46a945d11" title="XPLTasks" alt="" coords="144,1185,280,1228" />
+<area shape="rect" href="$_security_system_8c.html#aea89a2e5b007623f49cb6117afc947ec" title="SchemaInit" alt="" coords="1166,74,1321,117" />
+<area shape="rect" href="$_security_system_8c.html#aa38cdab46c967118f0f383312f150cce" title="LoadDefaultConfig" alt="" coords="1460,8,1702,50" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#ad811bd225b593df01e168e1bb0967713" title="SendGatewayReady" alt="" coords="1449,74,1713,117" />
+<area shape="rect" href="$_security_system_8h.html#ae777555850cf9c897f46c8407ce1729f" title="Places a new email in the SMTP queue to be processed (sent)" alt="" coords="1460,309,1702,352" />
+<area shape="rect" href="$x_p_l_8c.html#a31c1c8faace74e23f37a03b7292f7981" title="xPLLoadEEConfig" alt="" coords="1462,141,1700,184" />
+<area shape="rect" href="$x_p_l_8c.html#abde6ae0f37ef47bee8e881bba8502169" title="XPLSendHeader" alt="" coords="1762,1269,1984,1312" />
+<area shape="rect" href="$_security_system_8c.html#a62b4d90791ab073f74677d42bfb64253" title="SchemaTasks" alt="" coords="398,1185,585,1228" />
+<area shape="rect" href="$_security_system_8h.html#aa3464edbc8a2b00d44aff04588ed10ef" title="Managers the scheduled sending of emails." alt="" coords="369,1252,614,1294" />
+<area shape="rect" href="$x_p_l_8c.html#a07f019fb7de86ef4bfe4cab422be0969" title="XPLHeartBeatTiming" alt="" coords="357,1626,626,1669" />
+<area shape="rect" href="$x_p_l_8c.html#a41c59f641ff95b999e66c0d45117b73d" title="XPLProcessUDPMsg" alt="" coords="354,334,629,377" />
+<area shape="rect" href="$_battery_8c.html#ad7abffae7b40c1538c5411bfd808a68a" title="Task process for managing the battery state." alt="" coords="778,426,938,469" />
+<area shape="rect" href="$_security_system_8c.html#ab3be31caf1027bb142335a3a3d7d4eb1" title="bypassZone" alt="" coords="776,577,941,620" />
+<area shape="rect" href="$_security_system_8c.html#a14eb903eaa706a4874267274a2ffc6fa" title="EnableZone" alt="" coords="776,710,941,753" />
+<area shape="rect" href="$_security_system_8c.html#a3ccbc635f6f7bb31465920840c7db474" title="IOTasks" alt="" coords="800,829,917,872" />
+<area shape="rect" href="$_security_system_8h.html#ae9e6733b7fed738a76787f01762bb284" title="SendAlarmingMsg" alt="" coords="1462,1005,1700,1048" />
+<area shape="rect" href="$_security_system_8c.html#aa58e855f239c14c2cfc32dcfa244d31f" title="IsolateZone" alt="" coords="778,1076,938,1118" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#aa79f220fe412930dbbe86acd8e506f48" title="SendACStat" alt="" coords="1497,1122,1665,1165" />
+<area shape="rect" href="$_security_system_8h.html#acdb6126b5578c4ca8c06d5343a7b37df" title="SendAreaInfo" alt="" coords="1152,1181,1336,1224" />
+<area shape="rect" href="$_security_system_8h.html#a43dbd62169c9f83be3663dc435e232c7" title="SendAreaList" alt="" coords="1490,1240,1672,1282" />
+<area shape="rect" href="$_security_system_8h.html#a5d91f06e22d49f6ecee37802e866e0e6" title="SendAreaStat" alt="" coords="1150,1298,1337,1341" />
+<area shape="rect" href="$_security_system_8h.html#ae77b19bae92f6c64f9a58f722b4bf193" title="SendAreaStateMsg" alt="" coords="1456,1357,1706,1400" />
+<area shape="rect" href="$_security_system_8h.html#ae049c3724d5bacc955f50f724483ed91" title="SendArmed" alt="" coords="1162,1416,1325,1458" />
+<area shape="rect" href="$_security_x_p_l_sender_8c.html#a80218fda4a4753b2d214453e14b400ff" title="SendBatteryStat" alt="" coords="1473,1474,1689,1517" />
+<area shape="rect" href="$_security_system_8h.html#a07582d84515caf26cd22e534fd29f378" title="SendConfigList" alt="" coords="1142,1533,1345,1576" />
+<area shape="rect" href="$_security_system_8h.html#af1800c287b83d40961f39fcd9a751322" title="SendDisarm" alt="" coords="1497,1592,1665,1634" />
+<area shape="rect" href="$_security_system_8h.html#ab29cace49ca20af0048aac94e64c10dd" title="SendError" alt="" coords="1173,1650,1314,1693" />
+<area shape="rect" href="$_security_system_8h.html#aeb4ee205f02bf767a5d3b93608abc736" title="SendGateStat" alt="" coords="1486,1709,1676,1752" />
+<area shape="rect" href="$_security_system_8h.html#a2c31ecf27fafa5085703f0719f6decac" title="SendGatewayChanged" alt="" coords="1096,1768,1392,1810" />
+<area shape="rect" href="$_security_system_8h.html#a46495fd42c19f6703e4663cb7cf2d1ec" title="SendGatewayInfo" alt="" coords="742,1810,974,1853" />
+<area shape="rect" href="$_security_system_8h.html#ae149da75e2b494aa56f4976837706565" title="SendZoneInfo" alt="" coords="764,1877,953,1920" />
+<area shape="rect" href="$_security_system_8h.html#a5583c2b95797b8210dfe1b1a5e516c2d" title="SendZoneList" alt="" coords="766,242,950,285" />
+<area shape="rect" href="$_security_system_8h.html#a7fdbfa1929e90a45cc905c6276ab7cae" title="SendZoneStat" alt="" coords="762,309,954,352" />
+<area shape="rect" href="$_security_system_8c.html#ab4b79e3122c6964725cec23bf923547a" title="StateChangeToArmFailed" alt="" coords="696,644,1021,686" />
+<area shape="rect" href="$_security_system_8h.html#a30c3c9cdda2491c17d5d6d5cc6426b31" title="addxPLMessage" alt="" coords="1134,426,1353,469" />
+<area shape="rect" href="$_battery_8c.html#a35ba3e06ddabc0ec9b6167696f49ec58" title="FetchADC" alt="" coords="1172,360,1316,402" />
+<area shape="rect" href="$x_p_l_8c.html#a1099a7d6ccfe562deba149fd4acef424" title="xPLSaveEEConfig" alt="" coords="1124,594,1364,637" />
+<area shape="rect" href="$_e_o_l_8c.html#a44f4ef2b28f2d65b626e1ec4e5885934" title="IsZoneTriggered" alt="" coords="1136,962,1352,1005" />
+<area shape="rect" href="$_security_system_8h.html#ab01e7f6872c9f26dd9f91bc24f43f4b6" title="SendZoneStateMsg" alt="" coords="1453,825,1709,868" />
+<area shape="rect" href="$_security_system_8c.html#accca294859199bc9e59cec74618c871c" title="StateChangeToAlarming" alt="" coords="1089,762,1398,805" />
+<area shape="rect" href="$_security_system_8c.html#a75fd42e4a596598bc65a32ee0c863ac6" title="TaskAlarmed" alt="" coords="1156,829,1332,872" />
+<area shape="rect" href="$_security_system_8c.html#aa4b206c6022f03ed09cc1e7c0c1c64ac" title="TaskAlarming" alt="" coords="1153,896,1334,938" />
+<area shape="rect" href="$x_p_l_8c.html#abc8f282f2ce56cb62d7e149120130c72" title="XPLSendHeartBeat" alt="" coords="1454,1936,1708,1978" />
+<area shape="rect" href="$_security_system_8c.html#a3baecc6556e5cc7af0d59d0216aa217c" title="SchemaProcessUDPMsg" alt="" coords="697,493,1020,536" />
+<area shape="rect" href="$x_p_l_8c.html#a5f8892113a09c41986fc7240b315c01e" title="xPLProcessMsgCompair" alt="" coords="701,109,1016,152" />
+<area shape="rect" href="$x_p_l_8c.html#af740a9e5684491e3dcbe5b0198f98860" title="XPLProcessUDPMsgHeader" alt="" coords="677,176,1040,218" />
+</map>

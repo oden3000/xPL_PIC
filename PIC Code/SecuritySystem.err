@@ -1,0 +1,19 @@
+Warning[2058] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 408 : call of function without prototype
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 554 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 614 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 616 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 674 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 681 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 688 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 695 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 702 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 709 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 716 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 724 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 747 : call of function without prototype
+Warning[2058] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 751 : call of function without prototype
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 1494 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 1561 : comparison of a signed integer to an unsigned integer detected
+Warning[2058] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 1651 : call of function without prototype
+Warning[2058] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 1658 : call of function without prototype
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\SecuritySystem.c 1823 : comparison of a signed integer to an unsigned integer detected

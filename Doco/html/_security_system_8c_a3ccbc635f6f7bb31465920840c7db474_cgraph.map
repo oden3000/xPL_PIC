@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" href="$_security_system_8h.html#a30c3c9cdda2491c17d5d6d5cc6426b31" title="addxPLMessage" alt="" coords="188,37,406,79" />
+<area shape="rect" href="$_e_o_l_8c.html#a44f4ef2b28f2d65b626e1ec4e5885934" title="IsZoneTriggered" alt="" coords="189,133,405,175" />
+<area shape="rect" href="$_security_system_8h.html#ab01e7f6872c9f26dd9f91bc24f43f4b6" title="SendZoneStateMsg" alt="" coords="525,375,781,418" />
+<area shape="rect" href="$_security_system_8c.html#accca294859199bc9e59cec74618c871c" title="StateChangeToAlarming" alt="" coords="142,242,452,285" />
+<area shape="rect" href="$_security_system_8c.html#a75fd42e4a596598bc65a32ee0c863ac6" title="TaskAlarmed" alt="" coords="209,359,385,402" />
+<area shape="rect" href="$_security_system_8c.html#aa4b206c6022f03ed09cc1e7c0c1c64ac" title="TaskAlarming" alt="" coords="206,434,388,477" />
+<area shape="rect" href="$_security_system_8c.html#a491f8822a8274ca5244c41d226e7136e" title="ClearArmingFlags" alt="" coords="536,7,770,50" />
+<area shape="rect" href="$_e_o_l_8c.html#a1cabc40dfab4455722bcd809c23ed21d" title="CheckEOL" alt="" coords="578,74,728,117" />
+<area shape="rect" href="$_security_system_8c.html#a290b0da69aaf212aa38c219c45a6d8a9" title="isZoneMemberOfArea" alt="" coords="854,183,1137,226" />
+<area shape="rect" href="$x_p_l_8c.html#abde6ae0f37ef47bee8e881bba8502169" title="XPLSendHeader" alt="" coords="885,313,1106,355" />
+<area shape="rect" href="$_security_system_8h.html#ae9e6733b7fed738a76787f01762bb284" title="SendAlarmingMsg" alt="" coords="534,242,772,285" />
+<area shape="rect" href="$_security_system_8h.html#ae777555850cf9c897f46c8407ce1729f" title="Places a new email in the SMTP queue to be processed (sent)" alt="" coords="532,309,774,351" />
+<area shape="rect" href="$_security_system_8c.html#ab4846465588e6aede197b7e0dbfcea7a" title="StateChangeToAlarmed" alt="" coords="501,442,805,485" />
+</map>

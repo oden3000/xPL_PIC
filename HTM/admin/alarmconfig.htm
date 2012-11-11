@@ -1,0 +1,63 @@
+~inc:header.inc~
+
+<h1>Alarm Configuration</h1>
+<br>
+
+
+<form method="get" action="alarmconfig.htm">
+	<div class="AlarmConfig">
+
+		<LABEL for="Int">Heart beat interval</LABEL>
+		<INPUT type="text" name="Int" value="~HeartBeatTime~"><br> xPL heart beat time in minutes
+
+		<LABEL for="Ins">Instance Name </LABEL> xPL instance name, 17 chars
+		<INPUT type="text" name="Ins" value="~InstanceName~"><br>
+
+		<LABEL for="ExD">Exit Delay </LABEL>
+		<INPUT type="text" name="ExD" value="~ExitDelay~"><br>
+
+		<LABEL for="EnD">Entry Delay </LABEL>
+		<INPUT type="text" name="EnD" value="~EntryDelay~"><br>
+
+		<LABEL for="ADu">Alarming Duration</LABEL>
+		<INPUT type="text" name="ADu" value="~AlarmingDuration~"><br>
+
+		<LABEL for="AD2">Alarming 24hour Duration</LABEL>
+		<INPUT type="text" name="AD2" value="~Alarming24Duration~"><br>
+
+		<LABEL for="SD2">Siren Delay 24h</LABEL>
+		<INPUT type="text" name="SD2" value="~SirenDelay24h~"><br>
+
+		<LABEL for="SDe">Siren Delay </LABEL>
+		<INPUT type="text" name="SDe" value="~SirenDelay~"><br>
+
+		<LABEL for="NTP">NTP Server </LABEL> This is required for xPL encryption.  Must be DNS name and not an IP address. 35 chars
+		<INPUT type="text" name="NTP" value="~NTPServer~"><br>
+
+		<b>Use AES encryption</b> Currently set to: ~AES_Active~ <br>
+		<select name="UseAES">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+			<option value="a"  selected >Not Set</option>
+		</select> <br>
+
+		<input type="submit" value="Update" style="margin-top:5px;">
+	</div>
+</form>
+
+<br>Test NTP query<br>
+
+<form method="get" action="alarmconfig.htm">
+	<div class="TestNTP">
+
+		<select name="TestNTP">
+			<option value="1">Test</option>
+		</select>
+
+		<input type="submit" value="Test NTP update" >
+	</div>
+</form>
+
+<br><br>
+
+~inc:footer.inc~

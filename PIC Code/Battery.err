@@ -1,0 +1,5 @@
+Warning[2066] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Battery.c 124 : type qualifier mismatch in assignment
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Battery.c 153 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Battery.c 162 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Battery.c 163 : comparison of a signed integer to an unsigned integer detected
+Message[3002] C:\Documents and Settings\Administrator\My Documents\Alarm Controller\PIC Code\Battery.c 164 : comparison of a signed integer to an unsigned integer detected

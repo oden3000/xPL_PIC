@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$_security_system_8c.html#a290b0da69aaf212aa38c219c45a6d8a9" title="isZoneMemberOfArea" alt="" coords="572,8,854,50" />
+<area shape="rect" href="$_security_system_8h.html#ae9e6733b7fed738a76787f01762bb284" title="SendAlarmingMsg" alt="" coords="282,66,520,109" />
+<area shape="rect" href="$_security_system_8h.html#ae777555850cf9c897f46c8407ce1729f" title="Places a new email in the SMTP queue to be processed (sent)" alt="" coords="280,133,522,176" />
+<area shape="rect" href="$x_p_l_8c.html#abde6ae0f37ef47bee8e881bba8502169" title="XPLSendHeader" alt="" coords="602,74,824,117" />
+</map>

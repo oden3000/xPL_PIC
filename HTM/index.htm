@@ -1,0 +1,64 @@
+~inc:header.inc~
+
+<h1 style="text-align: center;"> SYSTEM STATUS </h1>
+<br>
+Alarm State:  ~AlarmState~<br>
+Define Types, used in zones and area Types:<br>
+~TypeList~<br>
+Define Alarm Types:<br>
+~AlarmTypeList~<br>
+xPL instance name: ~InstanceName~<br>
+xPL Heart Beat time in minutes ~HeartBeatTime~<br>
+Exit Delay: ~ExitDelay~ <br>
+Entry Delay: ~EntryDelay~ <br>
+Alarming Duration: ~AlarmingDuration~ <br>
+Alarming24Duration: ~Alarming24Duration~ <br>
+SirenDelay24h: ~SirenDelay24h~ <br>
+Supply Voltage: ~VoltageSupply~<br>
+Battery Voltage: ~VoltageBattery~<br>
+Battery status ~BatteryStatus~<br>
+Seconds since last NTP (time) update ~NTPLastUpdate~ in seconds<br>
+EPOC time ~CurrentEPOC~ <br>
+
+<br>--------------------------------------------------------
+<br><br>
+Zone Count:     ~ZoneCount~<br>
+Bypassed Zones: ~ZonesBypassed~<br>
+Isolated Zones: ~ZonesIsolated~<br>
+Triggeres Zones:~ZonesTriggered~<br>
+Armed Zones:    ~ZonesArmed~<br>
+Alarmed Zones:  ~ZonesAlarmed~<br>
+Type of zone:   ~ZonesType~ (perimeter, interior or 24 hour)<br>
+Alarm Type:     ~ZonesAlarmType~ Alarm type (eg fire, flood, gas etc)<br>
+Zone Area list: ~ZonesAreaList~ bit feild<br>
+Entry point:    ~ZonesEntry~<br>
+Normaly Open:   ~ZonesNO~<br>
+Tampered:		~ZonesTampered~<br>
+<br>--------------------------------------------------------<br>
+Area Count : ~AreaCount~<br>
+Bypassed Area : ~AreasBypassed~<br>
+Isolated Area : ~AreasIsolated~<br>
+Triggeres Area: ~AreasTriggered~<br>
+Armed Area :    ~AreasArmed~<br>
+Alarmed Area :  ~AreasAlarmed~<br>
+Alarm Type	:	~AreasAlarmType~<br>
+Tampered:		~AreaTampered~<br>
+is alarming does not exist for areas<br>
+<br>--------------------------------------------------------<br>
+
+<script type="text/javascript">
+var mycars=new Array(1,0,3,0);
+
+for (i=0;i<4;i++)
+{
+document.write(mycars[i]+ 2 + " <= ");
+if (mycars[i] == 0) document.write(" Yepee ");
+document.write(mycars[i] + "<br />");
+
+}
+</script>
+<br>
+<br>
+
+
+~inc:footer.inc~

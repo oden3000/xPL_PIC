@@ -1,0 +1,40 @@
+~inc:header.inc~
+
+<h1>User Configuration</h1>
+
+Last rejected password ~RejectPassword~ <br>
+User 0 is the admin password used in AES encryption<br>
+Admin password, should not be longer then 16 bytes.<br>
+Admin password is used for AES encryption and must be known to all other devices.<br>
+
+User #  Name		|	Password<br>
+User 0:~UserName(0)~		|	~UserPassword(0)~ <br>
+User 1:~UserName(1)~		|	~UserPassword(1)~ <br>
+User 2:~UserName(2)~		|	~UserPassword(2)~ <br>
+User 3:~UserName(3)~		|	~UserPassword(3)~ <br>
+User 4:~UserName(4)~		|	~UserPassword(4)~ <br>
+<br>
+<br>
+
+
+<form method="get" action="users.htm">
+	<div class="UserSetup">
+
+		User ID
+		<select name="id">
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+		</select> <br>
+
+		Name <INPUT type="text" name="N" value="~UserName(0)~"><br>
+		Password <INPUT type="text" name="P" value="~UserPassword(0)~"><br>
+
+		<input type="submit" value="Update">
+	</div>
+</form>
+
+
+~inc:footer.inc~

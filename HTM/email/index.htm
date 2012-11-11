@@ -1,0 +1,63 @@
+~inc:header.inc~
+
+
+<h1>Send E-Mail</h1>
+
+	SMTP_To	~SMTP_To~ Size[80]<br>
+	SMTP_Server	~SMTP_Server~ Size[20] Do not use IP address<br>
+	SMTP_User	~SMTP_User~ Size[40] user name to login onto the SMTP server<br>
+	SMTP_Password	~SMTP_Password~ Size[20] password for SMTP server account<br>
+	SMTP_Port	~SMTP_Port~ Port number integer from 1 to 10000<br>
+	SMTP_Active ~SMTP_Active~ False means SMTP is disabled True or False<br>
+	SMTP_OnlyInitalAlarm ~SMTP_OnlyInitalAlarm~ True or False<br>
+	SMTP_ArmDisarm ~SMTP_ArmDisarm~ True or False<br>
+	<br>
+
+
+<form method="post" action="/email/index.htm">
+  To: <input type="text" name="to" maxlength="80" value="~SMTP_To~" /><br />
+  Server: <input type="text" name="server" maxlength="20" value="~SMTP_Server~"/><br />
+  User: <input type="text" name="user" maxlength="40" value="~SMTP_User~"/><br />
+  Password: <input type="text" name="pw" maxlength="20" value="~SMTP_Password~"/><br />
+  Port: <input type="text" name="port" maxlength="6" value="~SMTP_Port~"/><br />
+ SMTP Active
+	<select name="active">
+		<option value="0">No</option>
+		<option value="1">Yes</option>
+	</select> <br />
+ Send only on intial alarmed event
+	<select name="initalarm">
+		<option value="0">No</option>
+		<option value="1">Yes</option>
+	</select> <br />
+ Send all arm and disarm events
+	<select name="armdisarm">
+		<option value="0">No</option>
+		<option value="1">Yes</option>
+	</select> <br />
+
+    <input type="submit" value="Save Values" />
+</form>
+
+<br>
+<br>
+
+
+<form method="get" action="/email/index.htm">
+	<div class="TestEmail">
+
+		<select name="test">
+			<option value="1">Test</option>
+		</select>
+
+		<input type="submit" value="Send Test Email" >
+	</div>
+</form>
+
+
+<br>
+<br>
+
+
+
+~inc:footer.inc~
